@@ -1,2 +1,2 @@
-# social_network_system_design
+# Traveler Social Network - System Design
 Homework for course by System Design
